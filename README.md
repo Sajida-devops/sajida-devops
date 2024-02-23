@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com](https://github.com/Sajida-devops/Deploy-EKS-using-GitOps">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Sajida-devops/Deploy-EKS-using-GitOps">Deploy-EKS-using-Gitops</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,5 +58,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/Sajida-devops/Deploy-EKS-using-GitOps">Deploy-EKS-using-Ditops</a>
+- <a href=<a href="https://github.com/Sajida-devops/Deploy-EKS-using-GitOps">Deploy-EKS-using-Gitops</a>
 - SOC Automation Project
