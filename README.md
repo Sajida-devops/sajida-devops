@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, I'm CHANGEME
+# Hello, I'm Sajida Ghafoor
 <a href="https://www.linkedin.com/in/sajida-g-5b770699/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
